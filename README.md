@@ -8,8 +8,8 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 ```
-DEVELOPED BY: T S YAMUNAASRI
-REGISTER NO: 212222240117
+DEVELOPED BY: ISHWARYA V
+REGISTER NO: 212221240016
 ```
 #### USE CASE DIAGRAM:
 ![Screenshot 2023-09-14 112444](https://github.com/Yamunaasri/LAB-1-ATM/assets/115707860/1e2b0120-384a-41ad-a3db-2ba458e40dc7)
